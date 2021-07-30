@@ -115,3 +115,11 @@ AudiCalls
 Sending alphanumeric messages
 Al  are correct
 ===============================================================
+Ques 17/17 >>>>
+The suitable applications for mobile agents are_
+ Parallel computing
+Data collection
+None of the  is correct
+Both Parallel computing and Data collection
+I
+===============================================================
