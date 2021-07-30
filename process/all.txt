@@ -22,3 +22,17 @@ Supplementary
 Tele
 Al  are correct
 ===============================================================
+Ques 5/5 >>>>
+In mobile agents the main drawback is_
+Security risk
+Protocol encapsulation
+Adaptive leamning
+Al  are correct
+===============================================================
+Ques 6/6 >>>>
+What factors influence the selection of data paths on routing_
+Network traffic and network interference
+uality of network connections
+Number of networks used
+Al  are correct
+===============================================================

@@ -1,0 +1,11 @@
+What factors influence the selection of data paths on routing_
+
+Options
+
+O Network traffic and network interference
+O Quality of network connections
+
+O Number of networks used
+
+QO Al options are correct
+

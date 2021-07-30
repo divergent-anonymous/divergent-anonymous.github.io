@@ -1,0 +1,11 @@
+In mobile agents the main drawback is_
+
+Options
+
+O Security risk
+
+QO Protocol encapsulation
+QO Adaptive leamning
+
+QO Al options are correct
+
