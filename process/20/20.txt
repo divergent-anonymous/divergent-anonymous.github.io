@@ -1,0 +1,10 @@
+Which one is the first protocols proposed for adhoc wireless networks?
+
+Options
+
+O Wireless routing protocol(WRP)
+
+QO Destination sequenced distance-vector routing
+O Source-tree adaptive routing protocol (STAR)
+O Dynamic source routing protocol (DSR)
+

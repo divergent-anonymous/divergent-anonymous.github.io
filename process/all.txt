@@ -138,3 +138,17 @@ Time
 Time and frequency
 Celispacing
 ===============================================================
+Ques 20/20 >>>>
+Which one is the first protocols proposed for adhoc wireless networks?
+Wireless routing protocol(WRP)
+Destination sequenced distance-vector routing
+Source-tree adaptive routing protocol (STAR)
+Dynamic source routing protocol (DSR)
+===============================================================
+Ques 21/21 >>>>
+The process of transferring a mobile station from one base station tanother is
+wmsc
+Roamer
+Hand off
+Forward channel
+===============================================================
