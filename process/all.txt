@@ -313,3 +313,19 @@ Current time.
 Dwell time
 Celitime
 ===============================================================
+Ques 44/44 >>>>
+Providers of certain types of services on a network are called_
+Routing
+Database
+CcorsA
+server
+===============================================================
+Ques 45/45 >>>>
+Application Controlled Transport Protocol -
+ 
+Provides freedom of choosing the required choosing the required
+s very compatible with TCP
+ s very not compatible with TCP
+ is Less dependent on routing protocol
+ 
+===============================================================

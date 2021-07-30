@@ -1,0 +1,15 @@
+Application Controlled Transport Protocol -
+
+ 
+
+Options
+
+O Provides freedom of choosing the required choosing the required
+O s very compatible with TCP
+
+Q s very not compatible with TCP
+
+Q is Less dependent on routing protocol
+
+ 
+
