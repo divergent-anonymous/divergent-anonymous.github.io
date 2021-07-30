@@ -255,3 +255,17 @@ copa
 NFs
 Both AFS and CODA
 ===============================================================
+Ques 36/36 >>>>
+The threat that involves the interception and monitoring of secret communication is called_
+Atemnation
+Eavesdropping
+Denial of service
+Masquerading
+===============================================================
+Ques 37/37 >>>>
+Which of the following uses high-frequency radiwaves instead of cables for connecting the devices in LAN?
+Wired LAN
+Wireless LAN
+Fiber made LAN
+None of the  is correct
+===============================================================

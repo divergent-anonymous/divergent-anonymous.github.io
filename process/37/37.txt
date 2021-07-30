@@ -1,0 +1,12 @@
+Which of the following uses high-frequency radio waves instead of cables for connecting the devices in LAN?
+
+Options
+
+O Wired LAN
+
+QO Wireless LAN
+
+O Fiber made LAN
+
+O None of the options is correct
+
