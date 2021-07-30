@@ -358,3 +358,10 @@ Master
 standby
 Slave
 ===============================================================
+Ques 50/50 >>>>
+Dynamic source routing protocol (DSR) is an
+ Table driven protocol
+On-demand routing protocol
+Hybrid routing protocol
+Hierarchical routing protocols
+===============================================================

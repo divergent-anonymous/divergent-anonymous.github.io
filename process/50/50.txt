@@ -1,0 +1,11 @@
+Dynamic source routing protocol (DSR) is an
+
+Options
+
+Q Table driven protocol
+
+O On-demand routing protocol
+O Hybrid routing protocol
+
+QO Hierarchical routing protocols
+
