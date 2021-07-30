@@ -1,0 +1,10 @@
+The bandwidth of FDMA channel is
+
+Options
+
+O WideNarrow
+O Large
+QO zero
+
+O Narrow
+

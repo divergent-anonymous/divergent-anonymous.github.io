@@ -299,3 +299,17 @@ Mobile agent
 Al  are correct
 &
 ===============================================================
+Ques 42/42 >>>>
+The bandwidth of FDMA channel is
+WideNarrow
+Large
+zero
+Narrow
+===============================================================
+Ques 43/43 >>>>
+The time over which a call can be maintained within a cell without handoff is called
+Peaktime
+Current time.
+Dwell time
+Celitime
+===============================================================
