@@ -1,0 +1,11 @@
+Which of the following can be considered as the advantage of using frequency reuse?
+
+Options
+
+QO The same spectrum can be allocated to the other networks
+QO Only a limited spectrum s required
+
+Q Increase capacity
+
+QO Al options are correct
+

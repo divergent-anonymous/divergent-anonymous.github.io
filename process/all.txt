@@ -8,3 +8,17 @@ Gsm
 GPRS
 uwmTs
 ===============================================================
+Ques 3/3 >>>>
+Which of the following can be considered as the advantage of using frequency reuse?
+The same spectrum can be allocated tthe other networks
+Only a limited spectrum s required
+ Increase capacity
+Al  are correct
+===============================================================
+Ques 4/4 >>>>
+Which of the following services/ services are defined by the GSM?
+Bearer
+Supplementary
+Tele
+Al  are correct
+===============================================================
