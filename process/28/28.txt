@@ -1,0 +1,10 @@
+Following are the types of routing on MANET except_
+
+Options
+
+QO Proactive routing
+QO Hybrid routing
+
+QO Hyperactive routing
+O Reactive routing
+

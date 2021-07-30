@@ -190,3 +190,17 @@ Wired device
 Wireless-enabled device
 None of the  is correct
 ===============================================================
+Ques 27/27 >>>>
+Which of the following is not true for FDMA systems as compared tTDMA systems?
+Low complexity
+Lower cell site system cost
+Tight RF filtering
+Narrow bandwidth
+===============================================================
+Ques 28/28 >>>>
+Following are the types of routing on MANET except_
+Proactive routing
+Hybrid routing
+Hyperactive routing
+Reactive routing
+===============================================================
