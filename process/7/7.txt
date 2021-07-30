@@ -1,0 +1,10 @@
+When an unauthorised agent ciaims The Identity of another agent itis said to be_
+
+Options
+
+QO Denial-of-service
+O Repudiation
+
+O Eavesdropping
+O Masquerade
+

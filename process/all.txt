@@ -42,3 +42,17 @@ csmaicA
 ALOHA
 csmacD
 ===============================================================
+Ques 7/7 >>>>
+When an unauthorised agent ciaims The Identity of another agent itis said tbe_
+Denial-of-service
+Repudiation
+Eavesdropping
+Masquerade
+===============================================================
+Ques 8/8 >>>>
+The hexagon shape is used for radicoverage because
+Fewer number of cells are required
+Ituses the maximum area for coverage
+It approximates a circular radiation pattem
+Al  are correct
+===============================================================
