@@ -56,3 +56,17 @@ Ituses the maximum area for coverage
 It approximates a circular radiation pattem
 Al  are correct
 ===============================================================
+Ques 9/9 >>>>
+The ability for an agent tmove across networks and between different goals tfulfil its goals called_
+Responsive
+Rationality
+Movility
+Autonomy
+===============================================================
+Ques 10/10 >>>>
+2G CDMA standard — cdma one supports up to
+8users
+ 64users
+32users
+t6users
+===============================================================
