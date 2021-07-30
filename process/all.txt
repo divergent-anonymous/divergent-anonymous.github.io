@@ -284,3 +284,18 @@ Cache consistency and data replication
 Both Cache consistency and data replication and Transaction management
 None of the  is correct
 ===============================================================
+Ques 40/40 >>>>
+BSC comes under which of the following category?
+Operation
+Radio
+Network
+Mobile
+===============================================================
+Ques 41/41 >>>>
+The life cycle of a mobile agent contains
+Home machine
+Host machine
+Mobile agent
+Al  are correct
+&
+===============================================================

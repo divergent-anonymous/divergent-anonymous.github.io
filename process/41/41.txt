@@ -1,0 +1,14 @@
+The life cycle of a mobile agent contains
+
+Options
+
+QO Home machine
+
+QO Host machine
+
+O Mobile agent
+
+QO Al options are correct
+
+&
+
