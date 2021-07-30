@@ -70,3 +70,17 @@ Ques 10/10 >>>>
 32users
 t6users
 ===============================================================
+Ques 11/11 >>>>
+Itis defined s the process of transferring a call (or data transfer) in progress from one channel tanother channel
+Handover
+Handoff
+Roaming
+Both Handover and Handoff
+===============================================================
+Ques 12/12 >>>>
+This layer of protocol architecture for signalling handles all radio-specific functions.
+The physical layer or layer 1
+LAPD or the Layer 2
+Call management (CM) layer
+Mobilty management (MM) layer
+===============================================================
