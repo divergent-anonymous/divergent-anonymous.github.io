@@ -1,0 +1,11 @@
+Which of the following uses wireless as the mode of communication for transferring or exchanging data between various mobiles over a short-
+range?
+
+Options
+
+O Ad hoc computing
+O Mobile computing
+O Bluetooth technology
+
+O None of the options is correct
+

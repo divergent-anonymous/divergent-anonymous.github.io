@@ -84,3 +84,18 @@ LAPD or the Layer 2
 Call management (CM) layer
 Mobilty management (MM) layer
 ===============================================================
+Ques 13/13 >>>>
+Mobile transaction models are_
+HiCoMoMoflex
+ Transaction Model
+None of the  is correct
+Both HiCoMoMoflex and Transaction Model
+===============================================================
+Ques 14/14 >>>>
+Which of the following uses wireless as the mode of communication for transferring or exchanging data between various mobiles over a short-
+range?
+Ad hoc computing
+Mobile computing
+Bluetooth technology
+None of the  is correct
+===============================================================
