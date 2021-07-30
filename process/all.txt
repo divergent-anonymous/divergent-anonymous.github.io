@@ -204,3 +204,17 @@ Hybrid routing
 Hyperactive routing
 Reactive routing
 ===============================================================
+Ques 29/29 >>>>
+FDMA s the division of
+Time
+Phase
+Spectum
+Amplitude
+===============================================================
+Ques 30/30 >>>>
+Dwell time s the time for
+Acall vithin the cell
+Hand off
+Waiting for channel allocation
+None of the  is correct
+===============================================================
