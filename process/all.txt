@@ -218,3 +218,12 @@ Hand off
 Waiting for channel allocation
 None of the  is correct
 ===============================================================
+Ques 31/31 >>>>
+Which of the following is alsreferred ts the functions of forward Voice Channel?
+ Initiating Mobile calls
+Broadcasting all traffic for mobiles.
+Voice transmi
+   
+fon from the base station tmot
+Al  are correct
+===============================================================
