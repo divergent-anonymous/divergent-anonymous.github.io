@@ -183,3 +183,10 @@ Network initialisation
  
 ignment
 ===============================================================
+Ques 26/26 >>>>
+Mobile Computing allows transmission of data from one wireless-enabled device tanother
+Any device
+Wired device
+Wireless-enabled device
+None of the  is correct
+===============================================================

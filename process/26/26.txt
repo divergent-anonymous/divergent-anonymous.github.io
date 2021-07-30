@@ -1,0 +1,10 @@
+Mobile Computing allows transmission of data from one wireless-enabled device to another
+
+Options
+
+QO Any device
+QO Wired device
+QO Wireless-enabled device
+
+O None of the options is correct
+
