@@ -99,3 +99,14 @@ Mobile computing
 Bluetooth technology
 None of the  is correct
 ===============================================================
+Ques 15/15 >>>>
+In ACDV, the source node and the intermediate nodes store the
+Complete path information
+Complete topolog,
+Next-hop information
+ormation
+ 
+None of the  is correct
+===============================================================
+Ques 16/16 >>>>
+===============================================================

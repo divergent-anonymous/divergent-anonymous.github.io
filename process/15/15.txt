@@ -1,0 +1,14 @@
+In ACDV, the source node and the intermediate nodes store the
+
+Options
+
+QO Complete path information
+O Complete topolog,
+O Next-hop information
+
+ormation
+
+ 
+
+O None of the options is correct
+
