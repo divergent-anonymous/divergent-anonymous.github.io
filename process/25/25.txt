@@ -1,0 +1,13 @@
+Mode of operation that enables a client to continue accessing critical data during temporary failures of shared data repository is_
+
+Options
+
+QO Venus States
+QO Code a
+O Disconnected operation in CODA
+QO Network initialisation
+
+ 
+
+ignment
+

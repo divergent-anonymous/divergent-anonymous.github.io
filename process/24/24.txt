@@ -1,0 +1,11 @@
+Who can provide diferent levels of security and has been optimized for low bandwidth, high-delay bearer networks.
+
+Options
+
+QO Wireless Transport Layer Security (WTLS)
+QO Wireless Transaction Protocol (WTP)
+
+QO Wireless Application Protocol (WAP)
+
+QO Wireless Session Protocol (WSP)
+

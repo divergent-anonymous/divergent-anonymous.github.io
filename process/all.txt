@@ -167,3 +167,19 @@ Modulating
 Multiple access techni
  
 ===============================================================
+Ques 24/24 >>>>
+Whcan provide diferent levels of security and has been optimized for low bandwidth, high-delay bearer networks.
+Wireless Transport Layer Security (WTLS)
+Wireless Transaction Protocol (WTP)
+Wireless Application Protocol (WAP)
+Wireless Session Protocol (WSP)
+===============================================================
+Ques 25/25 >>>>
+Mode of operation that enables a client tcontinue accessing critical data during temporary failures of shared data repository is_
+Venus States
+Code a
+Disconnected operation in CODA
+Network initialisation
+ 
+ignment
+===============================================================
