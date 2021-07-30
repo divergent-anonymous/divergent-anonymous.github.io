@@ -269,3 +269,18 @@ Wireless LAN
 Fiber made LAN
 None of the  is correct
 ===============================================================
+Ques 38/38 >>>>
+At what level does TCP uses flow and error control mechanisms?
+Physical level
+Datalink level
+Network level
+ Transport level
+===============================================================
+Ques 39/39 >>>>
+Data management include the following issues_
+Cache consistency and data replication
+ Transaction management
+ 
+Both Cache consistency and data replication and Transaction management
+None of the  is correct
+===============================================================

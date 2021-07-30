@@ -1,0 +1,14 @@
+Data management include the following issues_
+
+Options
+
+QO Cache consistency and data replication
+
+Q Transaction management
+
+ 
+
+O Both Cache consistency and data replication and Transaction management
+
+O None of the options is correct
+
