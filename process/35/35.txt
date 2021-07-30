@@ -1,0 +1,12 @@
+Server replication and caching on clients are different types of replication which is offered by_
+
+Options
+
+O ars
+
+O copa
+
+O NFs
+
+O Both AFS and CODA
+

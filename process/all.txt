@@ -241,3 +241,17 @@ Frequency reuse
 Frequency planning
 None of the  is correct
 ===============================================================
+Ques 34/34 >>>>
+Because of transmissions in TOMA, the handoff process in
+Continuous, complex
+Continuous, simple
+Discontinuous, complex
+Discontinuous, simple
+===============================================================
+Ques 35/35 >>>>
+Server replication and caching on clients are different types of replication which is offered by_
+ars
+copa
+NFs
+Both AFS and CODA
+===============================================================
