@@ -109,4 +109,9 @@ ormation
 None of the  is correct
 ===============================================================
 Ques 16/16 >>>>
-===============================================================
+The paging system can be used for
+Sending numeric messages
+AudiCalls
+Sending alphanumeric messages
+Al  are correct
+===============================================================
