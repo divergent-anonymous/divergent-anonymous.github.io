@@ -1,0 +1,9 @@
+Which multiple access technique is used in IEEE 802.11 standard for wireless LAN_
+
+Options
+
+O coma
+O csmaicA
+O ALOHA
+O csmacD
+

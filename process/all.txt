@@ -27,3 +27,18 @@ Protocol encapsulation
 Adaptive leamning
 Al  are correct
 ===============================================================
+Ques 5/5 >>>>
+What factors influence the selection of data paths on routing_
+ 
+Network traffic and network interference
+uality of network connections
+Number of networks used
+Al  are correct
+===============================================================
+Ques 6/6 >>>>
+Which multiple access technique is used in IEEE 802.11 standard for wireless LAN_
+coma
+csmaicA
+ALOHA
+csmacD
+===============================================================
