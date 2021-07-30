@@ -1,0 +1,12 @@
+Which tunnelling protocol is used to encapsulate all packets (e.g., IP, PPP) destined for the UE?
+
+Options
+
+O GPRS Tunnelling Protocol (GTP)
+
+O UMTS Tunnelling Protocol
+
+O RNS Tunneling Protocol
+
+QO Packet Data Convergence Protocol (PDCP)
+

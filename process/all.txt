@@ -152,3 +152,18 @@ Roamer
 Hand off
 Forward channel
 ===============================================================
+Ques 22/22 >>>>
+Which tunnelling protocol is used tencapsulate all packets (e.g., IP, PPP) destined for the UE?
+GPRS Tunnelling Protocol (GTP)
+UMTS Tunnelling Protocol
+RNS Tunneling Protocol
+Packet Data Convergence Protocol (PDCP)
+===============================================================
+Ques 23/23 >>>>
+The technique that makes possible the task of listening and talking in communication system is called
+simplexing
+Duplexing
+Modulating
+Multiple access techni
+ 
+===============================================================
