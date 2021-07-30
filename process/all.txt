@@ -329,3 +329,18 @@ s very compatible with TCP
  is Less dependent on routing protocol
  
 ===============================================================
+Ques 46/46 >>>>
+These services of GSM permit transparent and non-transparent, synchronous or asynchronous data transmission.
+Bearer services.
+Teleser
+Supplementary services
+ 
+None of the  is correct
+===============================================================
+Ques 47/47 >>>>
+In which of the following the total available bandwidth is spit intmany channels of smaller bandwidth plus guard spaces between the channels?
+FHss
+Dsss
+Both FHSS and DSSS
+None of the  is correct
+===============================================================
