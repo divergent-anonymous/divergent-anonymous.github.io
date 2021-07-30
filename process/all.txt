@@ -227,3 +227,17 @@ Voice transmi
 fon from the base station tmot
 Al  are correct
 ===============================================================
+Ques 32/32 >>>>
+Destination Sequenced Distance Vector Routing protocol (DSDV) comes under_
+Reactive routing
+Practive Routing
+Hybrid routing
+None of the  is correct
+===============================================================
+Ques 33/33 >>>>
+In a Cellular network, which of the following is used tuse the same frequency for others?
+Frequency hopping
+Frequency reuse
+Frequency planning
+None of the  is correct
+===============================================================
