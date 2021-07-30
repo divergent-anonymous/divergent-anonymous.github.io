@@ -123,3 +123,18 @@ None of the  is correct
 Both Parallel computing and Data collection
 I
 ===============================================================
+Ques 18/18 >>>>
+ 
+introduced Frequency Modulation for mobile communication systems in 1935,
+Edwin Armstrong
+Abert Einstein
+GalileGalilei
+ 
+===============================================================
+Ques 19/19 >>>>
+Time division duplexing uses tprovide both a forward and reverse link.
+Frequency
+Time
+Time and frequency
+Celispacing
+===============================================================
