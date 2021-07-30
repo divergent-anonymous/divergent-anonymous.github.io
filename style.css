@@ -1,0 +1,105 @@
+@font-face {
+  font-family: 'Varela-Regular';
+  src: url("Varela/Varela-Regular.ttf") format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: "Varela-Regular", sans-serif ;
+  /* white-space:pre-line; */
+  white-space:pre-wrap;
+  text-rendering: geometricPrecision;
+}
+
+.quest {
+  display: flex;
+  margin-bottom: 10px;
+  /* padding: 10px; */
+  /* border-style: solid; */
+  /* border-width: 2px; */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 0.5em;
+  /* background-color: #f1f1f1; */
+  background-color: mediumslateblue;
+  border-radius: 0.5em;
+  column-gap: 0.5em;
+}
+.question {
+  flex-direction: row;
+  flex: 1;
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /1* this adds the "card" effect *1/ */
+  border-radius: 0.5em;
+  padding: 16px;
+  background-color: lightcyan;
+}
+.questionno {
+  /* flex-direction: row; */
+  background-color: lightblue;
+  border-radius: 0.5em;
+  padding: 0.5em;
+}
+.no {
+  margin-bottom: 1em;
+  flex-direction: row;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+img {
+  object-fit: cover;
+  height: 100%;
+  width: 50%;
+  border-radius: 0.5em;
+}
+.search {
+  flex-direction: row;
+  display: flex;
+  margin-top: 1em;
+  font-weight: bold;
+}
+a {
+  flex-direction: row;
+  background-color: mediumvioletred;
+  color: white;
+  padding: 14px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+a[target="_blank"]::after {
+  content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+  margin: 0 3px 0 5px;
+}
+.button {
+  position: relative;
+  background-color: maroon;
+  border: none;
+  color: white;
+  padding: 1em;
+  /* width: 00px; */
+  font-weight: bold;
+  text-align: center;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.button:after {
+  content: "";
+  background: #90EE90;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px!important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.button:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+}
