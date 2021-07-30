@@ -13,3 +13,17 @@ Only a limited spectrum s required
  Increase capacity
 Al  are correct
 ===============================================================
+Ques 3/3 >>>>
+Which of the following services/ services are defined by the GSM?
+Bearer
+Supplementary
+Tele
+Al  are correct
+===============================================================
+Ques 4/4 >>>>
+In mobile agents the main drawback is_
+Security risk
+Protocol encapsulation
+Adaptive leamning
+Al  are correct
+===============================================================
