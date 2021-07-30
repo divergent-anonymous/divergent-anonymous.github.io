@@ -1,0 +1,10 @@
+In Bluetooth which of the following device decides the hopping sequence?
+
+Options
+
+O Master
+Q Parked
+QO standby
+
+QO Slave
+

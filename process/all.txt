@@ -344,3 +344,17 @@ Dsss
 Both FHSS and DSSS
 None of the  is correct
 ===============================================================
+Ques 48/48 >>>>
+Inthis type of handover, the handover occurs between different cells but within the reach of the same BSC.
+ Intra-cell handover
+ Inter-cell, intra-BSC handover
+ Inter-BSC, intra-MSC handover
+Inter MSC handover
+===============================================================
+Ques 49/49 >>>>
+In Bluetooth which of the following device decides the hopping sequence?
+Master
+ Parked
+standby
+Slave
+===============================================================
