@@ -38,3 +38,19 @@ The partial difierential equation governing vibrations of a membrane is
 o’
  
 ===============================================================
+Ques 4/4 >>>>
+I the function £(x)
+ 
+©
+Ay
+A
+8
+===============================================================
+Ques 5/5 >>>>
+Forthe diflerential equation 2xy/- xy'+ (1x%)y=0, the point x = 0 s
+ 
+an ordinary p
+None of these
+a regular singular point
+animegular singular point
+===============================================================
