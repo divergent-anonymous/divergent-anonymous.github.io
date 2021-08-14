@@ -1,0 +1,9 @@
+1T m Py(x) = P4(x)-P2 (x), then (m, n) =
+
+Options
+
+O a3
+O a5
+O 65
+O 63
+

@@ -1,0 +1,9 @@
+Ify(t) satisfies y'+ 2 y/ + y = e* with conditions y (0) = y/ (0)= 0, then L[y()]=
+
+Options
+
+O 1[(s-17
+O (s (s+1)]
+O 1/[(s+1)]
+O 1[s-1(s+1)?]
+
