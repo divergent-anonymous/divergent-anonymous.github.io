@@ -64,3 +64,11 @@ u(x)=2x+20
 u()=2x
 None of these
 ===============================================================
+Ques 8/8 >>>>
+I(x)= x| defined in (-1, 1) is expanded in a Fourier series of the form  f(x) = %+2 (a, cosnmx+b, sinn) . thenagis
+2 =
+None of these
+o1
+o
+O:2
+===============================================================

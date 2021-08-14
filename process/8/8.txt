@@ -1,0 +1,11 @@
+I(x)= x| defined in (-1, 1) is expanded in a Fourier series of the form  f(x) = %+2 (a, cosnmx+b, sinn) . thenagis
+2 =
+
+Options
+
+O None of these
+
+o1
+Qo
+O:2
+
