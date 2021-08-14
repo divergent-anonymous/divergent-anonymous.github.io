@@ -338,3 +338,15 @@ Fourier series expansion of an odd function in (0, 2L) has only sine terms
 None of these
 1§Tis a period of fx), then -Tis alsa period of f{x)
 ===============================================================
+Ques 44/44 >>>>
+=1
+The Laplace transform of f(t) = [1 0<t<ils
+ 
+===============================================================
+Ques 45/45 >>>>
+Lit+e™)=
+2+s+3)/[2(s43)
+(#+5+3)/[s (s3]
+)12 +3)
+(6+3)/[s(2+3)
+===============================================================
