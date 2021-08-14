@@ -1,4 +1,11 @@
-- i g <~ COSNT
-(e) Discuss the convergence/divergence of the series
-,,22: min
+The general solution of the system of simultaneous differential equations dyy/dt = y : dy, = -9y is given by
+
+Options
+
+O y1 = (Asin3t-Bcos3ty3, y2 = B sin3t+A cos3t
+O Both (a) & (b)
+
+O None of these
+
+O y1=Acos3t+Bsin3t, y2 = 3(Beos3t-Asin3t)
 

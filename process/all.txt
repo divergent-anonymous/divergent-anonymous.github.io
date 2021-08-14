@@ -1,11 +1,7 @@
 Ques 1/1 >>>>
-- i g <~ COSNT
-(e) Discuss the convergence/divergence of the series
-,,22: min
-===============================================================
-Ques 2/2 >>>>
-() Find the general solution of the equation Zx sin (y-xd—y
-===============================================================
-Ques 3/3 >>>>
-(8) Obtain the particular solution of the equnuon +4rcos 2t
+The general solution of the system of simultaneous differential equations dyy/dt = y : dy, = -9y is given by
+y1 = (Asin3t-Bcos3ty3, y2 = B sin3t+A cos3t
+Both (a) & (b)
+None of these
+y1=Acos3t+Bsin3t, y2 = 3(Beos3t-Asin3t)
 ===============================================================
