@@ -1,0 +1,11 @@
+The value of Laplace transform of f (t) = t sinh (31) is
+
+Options
+
+Q 6s/(s?-97
+QO 3s/(s2-97
+QO 6/(s?-97
+QO 3/(s2-97
+
+ 
+
