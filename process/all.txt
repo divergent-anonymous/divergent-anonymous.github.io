@@ -271,3 +271,17 @@ R®'.0)
 R.C
  
 ===============================================================
+Ques 34/34 >>>>
+Asolution of the differential equation x2y” + xy'= 0 is
+<
+logx
+None of these
+Ox
+===============================================================
+Ques 35/35 >>>>
+The solution of the diferential equation "+ (1/x)y'+ [1- (1/8)<®ly= 0 in terms of Bessel’s function i given by
+v=4Jy5(0)+BJ (%)
+y=4J5()+BL(x)
+Both (a) & (b)
+None of these
+===============================================================

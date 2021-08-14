@@ -1,0 +1,10 @@
+Asolution of the differential equation x2y” + xy'= 0 is
+
+Options
+
+O <
+QO logx
+O None of these
+
+Ox
+

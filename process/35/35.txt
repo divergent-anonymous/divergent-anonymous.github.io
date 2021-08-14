@@ -1,0 +1,10 @@
+The solution of the diferential equation "+ (1/x)y'+ [1- (1/8)<®ly= 0 in terms of Bessel’s function i given by
+
+Options
+
+O v=4Jy5(0)+BJ (%)
+O y=4J5()+BL(x)
+O Both (a) & (b)
+
+O None of these
+
