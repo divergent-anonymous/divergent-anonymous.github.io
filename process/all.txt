@@ -128,3 +128,19 @@ The value of Laplace transform of f (t) = t sinh (31) is
 Ques 16/16 >>>>
  
 ===============================================================
+Ques 17/17 >>>>
+ 
+The particular integral of the differential equation y/- 4y'+13y=18e%sin3x is given by
+-3xe¥sin3x
+-3xe%cosdx
+-3e%cosix
+o
+-3e¥sin3x
+===============================================================
+Ques 18/18 >>>>
+If Bessel's equation of order zeris y/ + (A’ x) y/ + By = 0, then (A, B) =
+an
+o
+an
+2
+===============================================================

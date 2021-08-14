@@ -1,0 +1,13 @@
+ 
+
+The particular integral of the differential equation y/- 4y'+13y=18e%sin3x is given by
+
+Options
+
+QO -3xe¥sin3x
+QO -3xe%cosdx
+O -3e%cosix
+o
+
+-3e¥sin3x
+

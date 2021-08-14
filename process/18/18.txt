@@ -1,0 +1,9 @@
+If Bessel's equation of order zero is y/ + (A’ x) y/ + By = 0, then (A, B) =
+
+Options
+
+O an
+O o
+O an
+O 2
+
