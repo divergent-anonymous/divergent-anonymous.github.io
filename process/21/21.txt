@@ -1,0 +1,11 @@
+The particular integral of the differential equation (D2 -3D+2)y = e* is
+
+Options
+
+O xe
+O -xe
+
+O @r)e*
+
+O None of these
+

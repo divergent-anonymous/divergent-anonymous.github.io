@@ -164,3 +164,10 @@ u(x,0)=0
 Lo.n=0
 ct
 ===============================================================
+Ques 21/21 >>>>
+The particular integral of the differential equation (D2 -3D+2)y = e* is
+xe
+-xe
+@r)e*
+None of these
+===============================================================
