@@ -1,9 +1,0 @@
-The time over which a call can be maintained within a cell without handoff is called
-
-Options
-
-QO Peaktime
-QO Current time.
-O Dwell time
-QO Celitime
-

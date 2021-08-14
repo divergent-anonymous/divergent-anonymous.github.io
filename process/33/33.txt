@@ -1,12 +1,0 @@
-In a Cellular network, which of the following is used to use the same frequency for others?
-
-Options
-
-QO Frequency hopping
-
-O Frequency reuse
-
-QO Frequency planning
-
-O None of the options is correct
-

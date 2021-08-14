@@ -1,11 +1,0 @@
-The paging system can be used for
-
-Options
-
-O Sending numeric messages
-
-O Audio Calls
-
-QO Sending alphanumeric messages
-QO Al options are correct
-

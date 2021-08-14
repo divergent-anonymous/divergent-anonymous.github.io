@@ -1,11 +1,0 @@
-This layer of protocol architecture for signalling handles all radio-specific functions.
-
-Options
-
-QO The physical layer or layer 1
-
-QO LAPD or the Layer 2
-
-QO Call management (CM) layer
-O Mobilty management (MM) layer
-

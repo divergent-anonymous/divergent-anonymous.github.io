@@ -1,12 +1,0 @@
-Destination Sequenced Distance Vector Routing protocol (DSDV) comes under_
-
-Options
-
-O Reactive routing
-
-QO Pro active Routing
-
-QO Hybrid routing
-
-O None of the options is correct
-

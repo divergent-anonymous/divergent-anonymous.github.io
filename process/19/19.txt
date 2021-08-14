@@ -1,11 +1,0 @@
-Time division duplexing uses to provide both a forward and reverse link.
-
-Options
-
-O Frequency
-
-O Time
-
-QO Time and frequency
-QO Celispacing
-

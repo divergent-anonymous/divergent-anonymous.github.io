@@ -1,10 +1,0 @@
-Because of transmissions in TOMA, the handoff process in
-
-Options
-
-QO Continuous, complex
-QO Continuous, simple
-O Discontinuous, complex
-
-QO Discontinuous, simple
-

@@ -1,14 +1,0 @@
-The suitable applications for mobile agents are_
-
-Options
-
-Q Parallel computing
-
-QO Data collection
-
-O None of the options is correct
-
-O Both Parallel computing and Data collection
-
-I
-

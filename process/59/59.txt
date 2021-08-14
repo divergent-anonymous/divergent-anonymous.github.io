@@ -1,5 +1,0 @@
-all.txt
-Cargo.lock
-Cargo.toml
-commit.sh
-

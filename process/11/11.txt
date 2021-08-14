@@ -1,9 +1,0 @@
-Itis defined s the process of transferring a call (or data transfer) in progress from one channel to another channel
-
-Options
-
-QO Handover
-QO Handoff
-O Roaming
-O Both Handover and Handoff
-

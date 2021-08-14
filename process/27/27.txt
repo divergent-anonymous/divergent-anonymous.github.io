@@ -1,11 +1,0 @@
-Which of the following is not true for FDMA systems as compared to TDMA systems?
-
-Options
-
-O Low complexity
-
-O Lower cell site system cost
-QO Tight RF filtering
-
-O Narrow bandwidth
-

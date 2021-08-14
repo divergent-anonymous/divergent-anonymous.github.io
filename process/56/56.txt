@@ -1,13 +1,0 @@
-variable does
-c/main.rs:102
-
-let mut file
-
-not need to be mutable
-
-B
-
-File::open("questionlist.json").unwrap();
-
-help: remove this “mut’
-

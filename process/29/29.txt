@@ -1,9 +1,0 @@
-FDMA s the division of
-
-Options
-
-O Time
-QO Phase
-O Spectum
-O Amplitude
-

@@ -1,14 +1,0 @@
-These services of GSM permit transparent and non-transparent, synchronous or asynchronous data transmission.
-
-Options
-
-QO Bearer services.
-
-QO Teleser
-
-O Supplementary services
-
- 
-
-O None of the options is correct
-

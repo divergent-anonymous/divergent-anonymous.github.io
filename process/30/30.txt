@@ -1,10 +1,0 @@
-Dwell time s the time for
-
-Options
-
-QO Acall vithin the cell
-QO Hand off
-QO Waiting for channel allocation
-
-O None of the options is correct
-

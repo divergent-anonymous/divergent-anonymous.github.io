@@ -1,9 +1,0 @@
-At what level does TCP uses flow and error control mechanisms?
-
-Options
-
-QO Physical level
-O Datalink level
-O Network level
-Q Transport level
-

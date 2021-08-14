@@ -1,10 +1,0 @@
-2G CDMA standard — cdma one supports up to
-
-Options
-
-QO 8users
-
-Q 64users
-QO 32users
-O t6users
-

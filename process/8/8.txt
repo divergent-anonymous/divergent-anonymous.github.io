@@ -1,10 +1,0 @@
-The hexagon shape is used for radio coverage because
-
-Options
-
-QO Fewer number of cells are required
-O Ituses the maximum area for coverage
-O It approximates a circular radiation pattem
-
-QO Al options are correct
-

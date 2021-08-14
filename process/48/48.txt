@@ -1,10 +1,0 @@
-Inthis type of handover, the handover occurs between different cells but within the reach of the same BSC.
-
-Options
-
-Q Intra-cell handover
-
-Q Inter-cell, intra-BSC handover
-Q Inter-BSC, intra-MSC handover
-QO Inter MSC handover
-

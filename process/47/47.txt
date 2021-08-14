@@ -1,12 +1,0 @@
-In which of the following the total available bandwidth is spit into many channels of smaller bandwidth plus guard spaces between the channels?
-
-Options
-
-QO FHss
-
-QO Dsss
-
-O Both FHSS and DSSS
-
-O None of the options is correct
-

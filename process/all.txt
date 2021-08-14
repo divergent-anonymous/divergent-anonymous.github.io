@@ -1,465 +1,38 @@
 Ques 1/1 >>>>
-In which of the following a single data stream is spit across several separate narrowband channels at different frequencies treduce interference
-and crosstalk.
-orFbm
-Gsm
-GPRS
-uwmTs
-===============================================================
-Ques 2/2 >>>>
-Which of the following can be considered as the advantage of using frequency reuse?
-The same spectrum can be allocated tthe other networks
-Only a limited spectrum s required
- Increase capacity
-Al  are correct
-===============================================================
-Ques 3/3 >>>>
-Which of the following services/ services are defined by the GSM?
-Bearer
-Supplementary
-Tele
-Al  are correct
-===============================================================
-Ques 4/4 >>>>
-In mobile agents the main drawback is_
-Security risk
-Protocol encapsulation
-Adaptive leamning
-Al  are correct
-===============================================================
-Ques 5/5 >>>>
-What factors influence the selection of data paths on routing_
- 
-Network traffic and network interference
-uality of network connections
-Number of networks used
-Al  are correct
-===============================================================
-Ques 6/6 >>>>
-Which multiple access technique is used in IEEE 802.11 standard for wireless LAN_
-coma
-csmaicA
-ALOHA
-csmacD
-===============================================================
-Ques 7/7 >>>>
-When an unauthorised agent ciaims The Identity of another agent itis said tbe_
-Denial-of-service
-Repudiation
-Eavesdropping
-Masquerade
-===============================================================
-Ques 8/8 >>>>
-The hexagon shape is used for radicoverage because
-Fewer number of cells are required
-Ituses the maximum area for coverage
-It approximates a circular radiation pattem
-Al  are correct
-===============================================================
-Ques 9/9 >>>>
-The ability for an agent tmove across networks and between different goals tfulfil its goals called_
-Responsive
-Rationality
-Movility
-Autonomy
-===============================================================
-Ques 10/10 >>>>
-2G CDMA standard — cdma one supports up to
-8users
- 64users
-32users
-t6users
-===============================================================
-Ques 11/11 >>>>
-Itis defined s the process of transferring a call (or data transfer) in progress from one channel tanother channel
-Handover
-Handoff
-Roaming
-Both Handover and Handoff
-===============================================================
-Ques 12/12 >>>>
-This layer of protocol architecture for signalling handles all radio-specific functions.
-The physical layer or layer 1
-LAPD or the Layer 2
-Call management (CM) layer
-Mobilty management (MM) layer
-===============================================================
-Ques 13/13 >>>>
-Mobile transaction models are_
-HiCoMoMoflex
- Transaction Model
-None of the  is correct
-Both HiCoMoMoflex and Transaction Model
-===============================================================
-Ques 14/14 >>>>
-Which of the following uses wireless as the mode of communication for transferring or exchanging data between various mobiles over a short-
-range?
-Ad hoc computing
-Mobile computing
-Bluetooth technology
-None of the  is correct
-===============================================================
-Ques 15/15 >>>>
-In ACDV, the source node and the intermediate nodes store the
-Complete path information
-Complete topolog,
-Next-hop information
-ormation
- 
-None of the  is correct
-===============================================================
-Ques 16/16 >>>>
-The paging system can be used for
-Sending numeric messages
-AudiCalls
-Sending alphanumeric messages
-Al  are correct
-===============================================================
-Ques 17/17 >>>>
-The suitable applications for mobile agents are_
- Parallel computing
-Data collection
-None of the  is correct
-Both Parallel computing and Data collection
-I
-===============================================================
-Ques 18/18 >>>>
- 
-introduced Frequency Modulation for mobile communication systems in 1935,
-Edwin Armstrong
-Abert Einstein
-GalileGalilei
- 
-===============================================================
-Ques 19/19 >>>>
-Time division duplexing uses tprovide both a forward and reverse link.
-Frequency
-Time
-Time and frequency
-Celispacing
-===============================================================
-Ques 20/20 >>>>
-Which one is the first protocols proposed for adhoc wireless networks?
-Wireless routing protocol(WRP)
-Destination sequenced distance-vector routing
-Source-tree adaptive routing protocol (STAR)
-Dynamic source routing protocol (DSR)
-===============================================================
-Ques 21/21 >>>>
-The process of transferring a mobile station from one base station tanother is
-wmsc
-Roamer
-Hand off
-Forward channel
-===============================================================
-Ques 22/22 >>>>
-Which tunnelling protocol is used tencapsulate all packets (e.g., IP, PPP) destined for the UE?
-GPRS Tunnelling Protocol (GTP)
-UMTS Tunnelling Protocol
-RNS Tunneling Protocol
-Packet Data Convergence Protocol (PDCP)
-===============================================================
-Ques 23/23 >>>>
-The technique that makes possible the task of listening and talking in communication system is called
-simplexing
-Duplexing
-Modulating
-Multiple access techni
- 
-===============================================================
-Ques 24/24 >>>>
-Whcan provide diferent levels of security and has been optimized for low bandwidth, high-delay bearer networks.
-Wireless Transport Layer Security (WTLS)
-Wireless Transaction Protocol (WTP)
-Wireless Application Protocol (WAP)
-Wireless Session Protocol (WSP)
-===============================================================
-Ques 25/25 >>>>
-Mode of operation that enables a client tcontinue accessing critical data during temporary failures of shared data repository is_
-Venus States
-Code a
-Disconnected operation in CODA
-Network initialisation
- 
-ignment
-===============================================================
-Ques 26/26 >>>>
-Mobile Computing allows transmission of data from one wireless-enabled device tanother
-Any device
-Wired device
-Wireless-enabled device
-None of the  is correct
-===============================================================
-Ques 27/27 >>>>
-Which of the following is not true for FDMA systems as compared tTDMA systems?
-Low complexity
-Lower cell site system cost
-Tight RF filtering
-Narrow bandwidth
-===============================================================
-Ques 28/28 >>>>
-Following are the types of routing on MANET except_
-Proactive routing
-Hybrid routing
-Hyperactive routing
-Reactive routing
-===============================================================
-Ques 29/29 >>>>
-FDMA s the division of
-Time
-Phase
-Spectum
-Amplitude
-===============================================================
-Ques 30/30 >>>>
-Dwell time s the time for
-Acall vithin the cell
-Hand off
-Waiting for channel allocation
-None of the  is correct
-===============================================================
-Ques 31/31 >>>>
-Which of the following is alsreferred ts the functions of forward Voice Channel?
- Initiating Mobile calls
-Broadcasting all traffic for mobiles.
-Voice transmi
-   
-fon from the base station tmot
-Al  are correct
-===============================================================
-Ques 32/32 >>>>
-Destination Sequenced Distance Vector Routing protocol (DSDV) comes under_
-Reactive routing
-Practive Routing
-Hybrid routing
-None of the  is correct
-===============================================================
-Ques 33/33 >>>>
-In a Cellular network, which of the following is used tuse the same frequency for others?
-Frequency hopping
-Frequency reuse
-Frequency planning
-None of the  is correct
-===============================================================
-Ques 34/34 >>>>
-Because of transmissions in TOMA, the handoff process in
-Continuous, complex
-Continuous, simple
-Discontinuous, complex
-Discontinuous, simple
-===============================================================
-Ques 35/35 >>>>
-Server replication and caching on clients are different types of replication which is offered by_
-ars
-copa
-NFs
-Both AFS and CODA
-===============================================================
-Ques 36/36 >>>>
-The threat that involves the interception and monitoring of secret communication is called_
-Atemnation
-Eavesdropping
-Denial of service
-Masquerading
-===============================================================
-Ques 37/37 >>>>
-Which of the following uses high-frequency radiwaves instead of cables for connecting the devices in LAN?
-Wired LAN
-Wireless LAN
-Fiber made LAN
-None of the  is correct
-===============================================================
-Ques 38/38 >>>>
-At what level does TCP uses flow and error control mechanisms?
-Physical level
-Datalink level
-Network level
- Transport level
-===============================================================
-Ques 39/39 >>>>
-Data management include the following issues_
-Cache consistency and data replication
- Transaction management
- 
-Both Cache consistency and data replication and Transaction management
-None of the  is correct
-===============================================================
-Ques 40/40 >>>>
-BSC comes under which of the following category?
-Operation
-Radio
-Network
-Mobile
-===============================================================
-Ques 41/41 >>>>
-The life cycle of a mobile agent contains
-Home machine
-Host machine
-Mobile agent
-Al  are correct
-&
-===============================================================
-Ques 42/42 >>>>
-The bandwidth of FDMA channel is
-WideNarrow
-Large
-zero
-Narrow
-===============================================================
-Ques 43/43 >>>>
-The time over which a call can be maintained within a cell without handoff is called
-Peaktime
-Current time.
-Dwell time
-Celitime
-===============================================================
-Ques 44/44 >>>>
-Providers of certain types of services on a network are called_
-Routing
-Database
-CcorsA
-server
-===============================================================
-Ques 45/45 >>>>
-Application Controlled Transport Protocol -
- 
-Provides freedom of choosing the required choosing the required
-s very compatible with TCP
- s very not compatible with TCP
- is Less dependent on routing protocol
- 
-===============================================================
-Ques 46/46 >>>>
-These services of GSM permit transparent and non-transparent, synchronous or asynchronous data transmission.
-Bearer services.
-Teleser
-Supplementary services
- 
-None of the  is correct
-===============================================================
-Ques 47/47 >>>>
-In which of the following the total available bandwidth is spit intmany channels of smaller bandwidth plus guard spaces between the channels?
-FHss
-Dsss
-Both FHSS and DSSS
-None of the  is correct
-===============================================================
-Ques 48/48 >>>>
-Inthis type of handover, the handover occurs between different cells but within the reach of the same BSC.
- Intra-cell handover
- Inter-cell, intra-BSC handover
- Inter-BSC, intra-MSC handover
-Inter MSC handover
-===============================================================
-Ques 49/49 >>>>
-In Bluetooth which of the following device decides the hopping sequence?
-Master
- Parked
-standby
-Slave
-===============================================================
-Ques 50/50 >>>>
-Dynamic source routing protocol (DSR) is an
- Table driven protocol
-On-demand routing protocol
-Hybrid routing protocol
-Hierarchical routing protocols
-===============================================================
-Ques 51/51 >>>>
-Chat with Proctor - RAJAT VERMA-
-IEBD (et focus of camera on your face ]
- 
-Please type message and Press Enter 1Send
-===============================================================
-Ques 52/52 >>>>
-===============================================================
-Ques 55/55 >>>>
-===============================================================
-Ques 54/54 >>>>
-===============================================================
-Ques 53/53 >>>>
-===============================================================
-Ques 56/56 >>>>
-variable does
-c/main.rs:102
-let mut file
-not need tbe mutable
-B
-File::open("questionlist.json").unwrap();
-help: remove this “mut’
-===============================================================
-Ques 57/57 >>>>
-10
-1
-12
-13
-14
-15
-1627617730
-1627617773
-1627617783
-1627617783
-1627617793
-1627617793
-1627617810
-===============================================================
-Ques 58/58 >>>>
-create
-create
-create
-create
-create
-create
-create
-mode
-mode
-mode
-mode
-mode
-mode
-mode
-YA
-YA
-YA
-YA
-YA
-YA
-100644
+10 files changed, 71 insertions(+), 2 deletions(-)
 [V R VAL N
 [V AT VAT
 [V VAN
 [V VAN
 [V VAN
 [V Y VAV
-process/57/57.
-txt
-txt
-txt
-T
-txt
-T
+[V Y VAV
+create
+create
+create
+create
+create
+create
+create
+mode
+mode
+mode
+mode
+mode
+mode
+mode
+YA
+YA
+YA
+YA
+YA
+YA
+YA
 1944
-===============================================================
-Ques 59/59 >>>>
-all.txt
-Cargo.lock
-Cargo.toml
-commit.sh
-===============================================================
-Ques 60/60 >>>>
-[
-45
-46
-47
-48
-49
-50
-51
-1y
-53
-54
-1]
-56
-57
-58
+1944
+1944
+AL
+1944
+AL
+1944
 ===============================================================

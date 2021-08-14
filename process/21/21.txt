@@ -1,12 +1,0 @@
-The process of transferring a mobile station from one base station to another is
-
-Options
-
-O wmsc
-
-O Roamer
-
-QO Hand off
-
-QO Forward channel
-

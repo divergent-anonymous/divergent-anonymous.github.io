@@ -1,12 +1,0 @@
-The threat that involves the interception and monitoring of secret communication is called_
-
-Options
-
-QO Atemnation
-
-O Eavesdropping
-
-O Denial of service
-
-O Masquerading
-

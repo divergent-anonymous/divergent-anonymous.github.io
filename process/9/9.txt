@@ -1,10 +1,0 @@
-The ability for an agent to move across networks and between different goals to fulfil its goals called_
-
-Options
-
-O Responsive
-O Rationality
-O Movility
-
-O Autonomy
-
