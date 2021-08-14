@@ -5,3 +5,21 @@ Both (a) & (b)
 None of these
 y1=Acos3t+Bsin3t, y2 = 3(Beos3t-Asin3t)
 ===============================================================
+Ques 2/2 >>>>
+An elastic string of length L which is fastened at its ends x = 0 and x = L, is picked up at ts centre point x = L/2 ta height L/2 and released from
+rest. Then the initial conditions of the problem are
+    
+ 
+& [x0<x<L/2
+L r0y=0.8 (roy= [ V0=
+& lL-vrr2=vst
+u [x0<x<L/2
+0)=02(x0)=1
+M0 =0ZCO0= L rnsrsr
+[x0<x<L/2 &
+(o= {¥0=x & 0)=0
+ 
+ 
+|[L-xLi2<x<Lar
+None of these
+===============================================================
