@@ -1,0 +1,11 @@
+ 
+
+) is equalto
+
+Options
+
+O ssinr
+O 1-sinr
+O reost
+O 1-cost
+
