@@ -1,0 +1,10 @@
+Which of the following s not true?
+
+Options
+
+O Fourier series expansion of an even function in (L, L) has only cosine terms
+O Fourier series expansion of an odd function in (0, 2L) has only sine terms
+O None of these
+
+O 1§Tis a period of fx), then -Tis also a period of f{x)
+

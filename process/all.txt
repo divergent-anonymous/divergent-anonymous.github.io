@@ -324,3 +324,17 @@ a5
 65
 63
 ===============================================================
+Ques 42/42 >>>>
+The differential equation x y + y' + x2y = 0 is solved by using Frobenius series solution. Then the recurrence relation is
+None of these
+cn=-cralir+n+12 023
+c=<oar+nRnz3
+cn=-codlir+n-1P,n22
+===============================================================
+Ques 43/43 >>>>
+Which of the following s not true?
+Fourier series expansion of an even function in (L, L) has only cosine terms
+Fourier series expansion of an odd function in (0, 2L) has only sine terms
+None of these
+1§Tis a period of fx), then -Tis alsa period of f{x)
+===============================================================

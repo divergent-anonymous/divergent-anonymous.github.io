@@ -1,0 +1,10 @@
+The differential equation x y + y' + x2y = 0 is solved by using Frobenius series solution. Then the recurrence relation is
+
+Options
+
+O None of these
+
+O cn=-cralir+n+12 023
+O c=<oar+nRnz3
+O cn=-codlir+n-1P,n22
+
