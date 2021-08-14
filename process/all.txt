@@ -285,3 +285,15 @@ y=4J5()+BL(x)
 Both (a) & (b)
 None of these
 ===============================================================
+Ques 36/36 >>>>
+The order and degree of the partal differential equation <
+ox
+  
+0@2
+@b
+None of these
+ay
+===============================================================
+Ques 37/37 >>>>
+If Jyp (T1/2) = m/m, then m is equal to
+===============================================================
