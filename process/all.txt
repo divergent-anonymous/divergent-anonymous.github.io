@@ -372,3 +372,19 @@ L7H(1) = 6(t), 6(t) being Dirac-Defta function.
 1m(2). 2L
 t) s+
 ===============================================================
+Ques 48/48 >>>>
+For obtaining the physically acceptable solution of one dimensional wave equation using method of separation of variables, the separation constant
+s taken as
+o
+o
+None of these
+»
+ 
+===============================================================
+Ques 49/49 >>>>
+The Laplace transform of 7 (f) = e " is.
+nls-a)"
+rm+)/(s—ay™
+(m+2)(s-a)™"
+I(n/(s-a)~*
+===============================================================

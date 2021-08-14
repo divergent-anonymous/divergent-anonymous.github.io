@@ -1,0 +1,13 @@
+For obtaining the physically acceptable solution of one dimensional wave equation using method of separation of variables, the separation constant
+s taken as
+
+Options
+
+o
+Qo
+O None of these
+
+O »
+
+ 
+
