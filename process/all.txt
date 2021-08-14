@@ -364,3 +364,11 @@ O
   
 X T
 ===============================================================
+Ques 47/47 >>>>
+Which one of the following is not correct?
+KL((®) = F(s) tenL(e™*f(£) =F(s +0)
+L(f(t = a)u(t = a)) = e L(£(£)),u(t — a) being unit step function
+L7H(1) = 6(t), 6(t) being Dirac-Defta function.
+1m(2). 2L
+t) s+
+===============================================================
