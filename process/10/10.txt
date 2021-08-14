@@ -1,0 +1,12 @@
+The partial differential equation —
+
+ 
+
+Options
+
+O Eliptic
+
+Q Parabolic
+O Hyperbolic
+O None of these
+
