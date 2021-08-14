@@ -23,3 +23,18 @@ M0 =0ZCO0= L rnsrsr
 |[L-xLi2<x<Lar
 None of these
 ===============================================================
+Ques 3/3 >>>>
+Which of the following is true?
+.. partial diflerential equation governing one dimensional heat equation is <1
+&
+The steady state temperature distribution in the circular plate is given by —
+o’
+    
+ 
+None of these
+o
+ 
+The partial difierential equation governing vibrations of a membrane is
+o’
+ 
+===============================================================
