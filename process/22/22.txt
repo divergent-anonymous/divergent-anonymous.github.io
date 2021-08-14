@@ -1,0 +1,6 @@
+The homogeneous linear differential equation whose solutions are 1, sin X, cos X, is given by
+
+Options
+
+ 
+
