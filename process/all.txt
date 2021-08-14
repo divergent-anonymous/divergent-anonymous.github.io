@@ -297,3 +297,16 @@ ay
 Ques 37/37 >>>>
 If Jyp (T1/2) = m/m, then m is equal to
 ===============================================================
+Ques 38/38 >>>>
+In steady state condition, the temperature distribution in a rod is given by
+ 
+===============================================================
+Ques 39/39 >>>>
+The general solution of the differential equation D'’z = 0.D' =
+2o
+(x.») =LA
+SORFACEVAC RS A
+None of these
+z(x.y) = AM+3HM+ 3 [0
+  
+===============================================================

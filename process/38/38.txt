@@ -1,0 +1,6 @@
+In steady state condition, the temperature distribution in a rod is given by
+
+Options
+
+ 
+
