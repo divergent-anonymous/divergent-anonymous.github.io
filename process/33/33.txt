@@ -1,0 +1,12 @@
+A condenser of capacity C discharged through an inductance L and resistance R in series and the charge satisfies the differential equation L D%q +
+ADQq +Bq =0, where D= d/dt, then (A, B) are given by
+
+Options
+
+O RO
+O R®'.0)
+O ®'.cY
+O R.C
+
+ 
+

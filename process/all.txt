@@ -255,3 +255,19 @@ Ques 31/31 >>>>
 
 e
 ===============================================================
+Ques 32/32 >>>>
+The general solution of the differential equation (2D+1)% = 0, where D= d/dt, is.
+(A+Bie
+(A+Bie=
+(A+Bye=
+(A+Boe®
+===============================================================
+Ques 33/33 >>>>
+A condenser of capacity C discharged through an inductance L and resistance R in series and the charge satisfies the differential equation L D%q +
+ADq +Bq =0, where D= d/dt, then (A, B) are given by
+RO
+R®'.0)
+®'.cY
+R.C
+ 
+===============================================================
