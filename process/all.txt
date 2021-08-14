@@ -100,3 +100,20 @@ None of these
 o
 u(L.t) = Constant
 ===============================================================
+Ques 13/13 >>>>
+The integral [, e cos2tdt s equal to
+313
+O
+-313
+zi2
+ 
+===============================================================
+Ques 14/14 >>>>
+The general solution of the differential equation x2y’-2xy'+2y=x3 is.
+y=Ac*+ Be™ +(:212)
+y=Ax+B2-(x3)
+None of these
+y=Ax+B2+02)
+ 
+ 
+===============================================================

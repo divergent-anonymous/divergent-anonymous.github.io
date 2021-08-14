@@ -1,0 +1,14 @@
+The general solution of the differential equation x2y’-2xy'+2y=x3 is.
+
+Options
+
+O y=Ac*+ Be™ +(:212)
+QO y=Ax+B2-(x3)
+O None of these
+
+O y=Ax+B2+02)
+
+ 
+
+ 
+
