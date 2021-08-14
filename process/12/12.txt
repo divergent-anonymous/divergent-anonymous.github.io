@@ -1,0 +1,16 @@
+Ifthe end x =L is insulated in one-gimensional heat flow problem, then the boundary condition at this end is
+
+Options
+
+O M=o
+
+&
+2 (L.1) = Constant. ¥t
+&
+
+o
+O None of these
+o
+
+u(L.t) = Constant
+

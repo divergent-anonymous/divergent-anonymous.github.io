@@ -87,3 +87,16 @@ Eliptic
 Hyperbolic
 None of these
 ===============================================================
+Ques 11/11 >>>>
+===============================================================
+Ques 12/12 >>>>
+Ifthe end x =L is insulated in one-gimensional heat flow problem, then the boundary condition at this end is
+M=o
+&
+2 (L.1) = Constant. ¥t
+&
+o
+None of these
+o
+u(L.t) = Constant
+===============================================================
