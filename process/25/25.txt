@@ -1,0 +1,9 @@
+The degree of the differential equation k(d?y/dx2)=[1+(dy/dx)?** is
+
+Options
+
+o1
+O:2
+O3
+O+
+

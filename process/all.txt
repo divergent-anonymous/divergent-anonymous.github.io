@@ -195,4 +195,9 @@ IF1(x) = x, Is expanded in a Fourier sine series in (0, ), then bn is equal to
 None of these
 ===============================================================
 Ques 25/25 >>>>
-===============================================================
+The degree of the differential equation k(d?y/dx2)=[1+(dy/dx)?** is
+o1
+O:2
+O3
+O+
+===============================================================
