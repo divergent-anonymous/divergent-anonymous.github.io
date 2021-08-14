@@ -54,3 +54,13 @@ None of these
 a regular singular point
 animegular singular point
 ===============================================================
+Ques 6/6 >>>>
+Ify = xis a solution of the following diferential equation x"+xy"y=0 , then second finearly independent solution s iven by
+===============================================================
+Ques 7/7 >>>>
+The steady state temperature distribution in a rod of length 30 cm. having its end maintained at 20°C and 80°C respectively, is
+(x)=20x
+u(x)=2x+20
+u()=2x
+None of these
+===============================================================

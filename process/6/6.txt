@@ -1,0 +1,4 @@
+Ify = xis a solution of the following diferential equation x"+xy"y=0 , then second finearly independent solution s iven by
+
+Options
+

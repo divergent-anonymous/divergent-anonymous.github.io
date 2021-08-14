@@ -1,0 +1,12 @@
+The steady state temperature distribution in a rod of length 30 cm. having its end maintained at 20°C and 80°C respectively, is
+
+Options
+
+(x)=20x
+u(x)=2x+20
+u()=2x
+
+None of these
+
+O000
+
