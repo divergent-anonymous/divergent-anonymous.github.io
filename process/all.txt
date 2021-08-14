@@ -227,3 +227,18 @@ o
 Does not exist
 o1
 ===============================================================
+Ques 29/29 >>>>
+Su Su
+Using method of separation of variables, the general solution of — =4 — is given by
+& oy
+ 
+ 
+ 
+ 
+u(x.y)=ce
+u(x.y)=ce
+Al). ). (©)
+u(x.y) =ce
+ 
+b
+===============================================================
