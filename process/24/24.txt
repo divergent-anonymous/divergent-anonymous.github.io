@@ -1,0 +1,10 @@
+IF1(x) = x, Is expanded in a Fourier sine series in (0, ), then bn is equal to
+
+Options
+
+O 4/n
+O 2(-1"/n
+O 2-)™*/n
+
+O None of these
+
