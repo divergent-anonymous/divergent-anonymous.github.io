@@ -1,0 +1,11 @@
+The roots of the indicial equation of the differential equation 2x%y"+ xy’ - (1+x)y=0 are
+
+Options
+
+1-1/2
+12
+-11/2
+-1-1/2
+
+O000
+
