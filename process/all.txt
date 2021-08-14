@@ -152,4 +152,15 @@ The function f (x) = cos3x is a periodic function having period
 27
 ===============================================================
 Ques 20/20 >>>>
-===============================================================
+When a string vibrates with zerinitial velocity, then the initial condition is
+& 0y-0
+=
+u(x,0)=0
+éu
+ 
+(0)=0
+ér
+0O
+Lo.n=0
+ct
+===============================================================
