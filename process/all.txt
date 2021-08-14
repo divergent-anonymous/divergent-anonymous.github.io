@@ -1,50 +1,5 @@
 Ques 1/1 >>>>
-10 files changed, 71 insertions(+), 2 deletions(-)
-[V R VAL N
-[V AT VAT
-[V VAN
-[V VAN
-[V VAN
-[V Y VAV
-[V Y VAV
-create
-create
-create
-create
-create
-create
-create
-mode
-mode
-mode
-mode
-mode
-mode
-mode
-YA
-YA
-YA
-YA
-YA
-YA
-YA
-1944
-1944
-1944
-AL
-1944
-AL
-1944
-===============================================================
-Ques 2/2 >>>>
-Mathematics Il 8:43am
-Dipanshu added Samarth
-===============================================================
-Ques 3/3 >>>>
-12:21am
- 
-===============================================================
-Ques 4/4 >>>>
-Assigned group®& yesterday
-Puspendra: Assignment7(1-3)..Done g
+- i g <~ COSNT
+(e) Discuss the convergence/divergence of the series
+,,22: min
 ===============================================================
