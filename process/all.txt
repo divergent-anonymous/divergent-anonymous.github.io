@@ -208,3 +208,22 @@ The roots of the indicial equation of the differential equation 2x%y"+ xy’ - (
 -11/2
 -1-1/2
 ===============================================================
+Ques 27/27 >>>>
+The function f(?) whose Laplace transformis |, lo;
+ 
+ 
+None of these
+02
+ 
+1-cosr)
+===============================================================
+Ques 28/28 >>>>
+The value of & for the wave equation
+ 
+u, =4u,.0<x<zt>0:; win condiions 2(0,7)=0=u(x.r) ana
+1(x.0)=sin@):14(x.0) =0, Is equal to
+-1
+o
+Does not exist
+o1
+===============================================================

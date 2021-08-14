@@ -1,0 +1,15 @@
+The value of & for the wave equation
+
+ 
+
+u, =4u,.0<x<zt>0:; win condiions 2(0,7)=0=u(x.r) ana
+1(x.0)=sin@):14(x.0) =0, Is equal to
+
+Options
+
+O -1
+o
+O Does not exist
+
+o1
+
