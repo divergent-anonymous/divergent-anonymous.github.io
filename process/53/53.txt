@@ -1,0 +1,10 @@
+!
+help: remove this “mut’
+“#[warn(unused_mut)]’ on by default
+
+riable does not need to be mutable
+main.rs:102:9
+
+et mut file = File::open("questionlist.json").unwrap();
+————AAAA
+
